@@ -1,39 +1,34 @@
-# 👋 Hi, I'm Joyash Maharjan
-
-🎓 BIM Student (7th Semester) | 💻 Aspiring Full-Stack Developer  
-📍 Kathmandu, Nepal  
+<h1 align="center">Hi 👋, I'm Joyash Maharjan</h1>
+<h3 align="center">Full-Stack Developer | React • Django • PostgreSQL | Nepal 🇳🇵</h3>
 
 ---
 
 ## 🚀 About Me
-I’m an aspiring full-stack developer with hands-on experience building real-world web applications using **React.js, Django, and PostgreSQL**.
 
-I enjoy working on projects that involve:
-- Frontend + Backend integration  
-- Building REST APIs  
-- Designing database-driven systems  
-- Creating user-focused applications  
-
-Currently, I’m looking for **internship opportunities** where I can apply my skills and grow as a developer.
+- 🔭 I’m currently working on [Chitralaya](https://github.com/Joyashmrzn/Chitralaya)
+- 🌱 I’m currently learning **Django and Next.js**
+- 💬 Ask me about **React, Django, and Full-Stack Development**
+- 📫 Reach me at: **joyashmaharjan1@gmail.com**
+- 🎯 Goal: To become a strong Full-Stack Developer building real-world scalable apps
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-Python | JavaScript | SQL  
+### 💻 Languages
+Python • JavaScript • SQL • HTML • CSS
 
-**Frontend:**  
-React.js | HTML | CSS  
+### ⚙️ Frontend
+React.js • HTML5 • CSS3 • JavaScript
 
-**Backend:**  
-Django  
+### 🔧 Backend
+Django • REST APIs
 
-**Database:**  
-PostgreSQL  
+### 🗄️ Database
+PostgreSQL • MySQL
 
-**Tools:**  
-Git | GitHub | VS Code  
+### 🧰 Tools
+Git • GitHub • VS Code • Postman
 
 ---
 
@@ -42,41 +37,44 @@ Git | GitHub | VS Code
 ### 🎨 Chitralaya – Online Art Marketplace
 🔗 https://github.com/Joyashmrzn/Chitralaya  
 
-A full-stack e-commerce platform where users can browse and purchase artworks, and artists can manage their profiles and uploads.
-
-**Key Features:**
-- Role-based system (User / Artist / Admin)  
-- Artwork listing and category filtering  
-- Purchase system and order history  
-- Full frontend-backend integration  
+- Full-stack e-commerce platform for artworks  
+- User, Artist, and Admin role-based system  
+- Category-based artwork filtering  
+- Purchase system with order history  
+- Built with React + Django + PostgreSQL  
 
 ---
 
 ### 🏫 Admission Management System (AMS)
-
-A complete system to manage student admissions, form submissions, and document uploads.
-
-**Key Features:**
-- Multi-step admission form  
-- Student & staff role-based system  
-- Document upload and data management  
-- Backend logic for handling applications  
+- Multi-step student admission system  
+- Document upload functionality  
+- Role-based access for students & staff  
+- Backend API integration with Django  
+- PostgreSQL database management  
 
 ---
 
-## 📚 What I'm Learning
-- Advanced Django & API development  
-- Deployment (Full-stack apps)  
-- Improving UI/UX in React  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joyashmrzn&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joyashmrzn&theme=tokyonight" />
+</p>
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Connect With Me
 
-📧 Email: joyashmaharjan1@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/joyash-maharjan-7919622b1  
+<p align="left">
+<a href="https://fb.com/joyash maharjan" target="blank">Facebook</a> •
+<a href="https://instagram.com/joyash_maharjan" target="blank">Instagram</a> •
+<a href="https://linkedin.com/in/joyash-maharjan-7919622b1" target="blank">LinkedIn</a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-I prefer learning by building real projects rather than just theory 🚀
+I learn best by building real-world projects instead of just theory 🚀
