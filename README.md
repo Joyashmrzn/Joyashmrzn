@@ -69,8 +69,8 @@ Git • GitHub • VS Code • Postman
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://fb.com/joyash maharjan" target="blank">Facebook</a> •
-<a href="https://instagram.com/joyash_maharjan" target="blank">Instagram</a> •
+<a href="https://www.facebook.com/joyash.maharjan.9" target="blank">Facebook</a> •
+<a href="https://www.instagram.com/joyash_maharjan/" target="blank">Instagram</a> •
 <a href="https://linkedin.com/in/joyash-maharjan-7919622b1" target="blank">LinkedIn</a>
 </p>
 
