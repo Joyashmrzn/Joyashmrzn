@@ -5,11 +5,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [Chitralaya](https://github.com/Joyashmrzn/Chitralaya)
-- 🌱 I’m currently learning **Django and Next.js**
+- 🔭 Currently working on [Chitralaya](https://github.com/Joyashmrzn/Chitralaya)
+- 🌱 Learning **Django and Next.js**
 - 💬 Ask me about **React, Django, and Full-Stack Development**
 - 📫 Reach me at: **joyashmaharjan1@gmail.com**
-- 🎯 Goal: To become a strong Full-Stack Developer building real-world scalable apps
+- 🎯 Goal: Build scalable real-world applications and grow as a Full-Stack Engineer
 
 ---
 
@@ -38,19 +38,22 @@ Git • GitHub • VS Code • Postman
 🔗 https://github.com/Joyashmrzn/Chitralaya  
 
 - Full-stack e-commerce platform for artworks  
-- User, Artist, and Admin role-based system  
-- Category-based artwork filtering  
+- Role-based system (User / Artist / Admin)  
+- Category-based artwork filtering system  
 - Purchase system with order history  
-- Built with React + Django + PostgreSQL  
+- Built using React.js, Django, and PostgreSQL  
+- Integrated frontend and backend for dynamic data flow  
 
 ---
 
 ### 🏫 Admission Management System (AMS)
+
 - Multi-step student admission system  
 - Document upload functionality  
 - Role-based access for students & staff  
 - Backend API integration with Django  
 - PostgreSQL database management  
+- Built for real-world admission workflow handling  
 
 ---
 
@@ -69,9 +72,9 @@ Git • GitHub • VS Code • Postman
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.facebook.com/joyash.maharjan.9" target="blank">Facebook</a> •
-<a href="https://www.instagram.com/joyash_maharjan/" target="blank">Instagram</a> •
-<a href="https://linkedin.com/in/joyash-maharjan-7919622b1" target="blank">LinkedIn</a>
+<a href="https://www.facebook.com/joyash.maharjan.9">Facebook</a> •
+<a href="https://www.instagram.com/joyash_maharjan/">Instagram</a> •
+<a href="https://linkedin.com/in/joyash-maharjan-7919622b1">LinkedIn</a>
 </p>
 
 ---
