@@ -8,7 +8,7 @@
 - 🌱 Learning **Django and Next.js**
 - 💬 Ask me about **React, Django, and Full-Stack Development**
 - 📫 Reach me at: **joyashmaharjan1@gmail.com**
-- 🎓 Pursuing **BIM at Tribhuvan University (7th Sem)**
+- 🎓 **BIM at Prime College, Tribhuvan University**
 - 🎯 Goal: Build scalable real-world applications and grow as a Full-Stack Engineer
 
 ---
