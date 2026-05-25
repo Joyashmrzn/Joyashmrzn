@@ -5,10 +5,10 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on [Chitralaya](https://github.com/Joyashmrzn/Chitralaya)
 - 🌱 Learning **Django and Next.js**
 - 💬 Ask me about **React, Django, and Full-Stack Development**
 - 📫 Reach me at: **joyashmaharjan1@gmail.com**
+- 🎓 Pursuing **BIM at Tribhuvan University (7th Sem)**
 - 🎯 Goal: Build scalable real-world applications and grow as a Full-Stack Engineer
 
 ---
@@ -35,25 +35,44 @@ Git • GitHub • VS Code • Postman
 ## 📌 Featured Projects
 
 ### 🎨 Chitralaya – Online Art Marketplace
-🔗 https://github.com/Joyashmrzn/Chitralaya  
+🔗 https://github.com/Joyashmrzn/Chitralaya
 
-- Full-stack e-commerce platform for artworks  
-- Role-based system (User / Artist / Admin)  
-- Category-based artwork filtering system  
-- Purchase system with order history  
-- Built using React.js, Django, and PostgreSQL  
-- Integrated frontend and backend for dynamic data flow  
+- Full-stack e-commerce platform for buying and selling artworks
+- Role-based system (User / Artist / Admin)
+- Category-based artwork filtering system
+- Purchase system with order history
+- Artist profile management with artwork upload and portfolio control
+- Built using React.js, Django, and PostgreSQL
 
 ---
 
 ### 🏫 Admission Management System (AMS)
+🔗 https://github.com/Joyashmrzn/AMS
 
-- Multi-step student admission system  
-- Document upload functionality  
-- Role-based access for students & staff  
-- Backend API integration with Django  
-- PostgreSQL database management  
-- Built for real-world admission workflow handling  
+- Multi-step student admission system
+- Document upload functionality for academic and personal records
+- Role-based access for students & staff
+- Program-based student management and organization
+- Backend API integration with Django REST Framework
+- PostgreSQL database management
+
+---
+
+### 🌐 Portfolio Website
+🔗 https://joyash-portfolio.vercel.app/
+
+- Personal developer portfolio showcasing projects and skills
+- Clean, responsive design built with HTML, CSS, and JavaScript
+- Highlights full-stack workflow from planning to deployment
+- Deployed on Vercel
+
+---
+
+### 📸 PassportSnap
+🔗 https://passportsnap-rouge.vercel.app/
+
+- Web app for generating passport-sized photos
+- Deployed on Vercel
 
 ---
 
@@ -62,7 +81,6 @@ Git • GitHub • VS Code • Postman
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joyashmrzn&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joyashmrzn&theme=tokyonight" />
 </p>
@@ -80,4 +98,5 @@ Git • GitHub • VS Code • Postman
 ---
 
 ## ⚡ Fun Fact
+
 I learn best by building real-world projects instead of just theory 🚀
