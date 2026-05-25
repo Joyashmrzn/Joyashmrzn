@@ -35,7 +35,7 @@ Git • GitHub • VS Code • Postman
 ## 📌 Featured Projects
 
 ### 🎨 Chitralaya – Online Art Marketplace
-🔗 https://github.com/Joyashmrzn/Chitralaya
+🔗 [https://github.com/Joyashmrzn/Chitralaya](https://chitralaya-project.vercel.app/)
 
 - Full-stack e-commerce platform for buying and selling artworks
 - Role-based system (User / Artist / Admin)
